@@ -7,7 +7,7 @@ import random
 import pyfiglet
 
 
-txt=pyfiglet.figlet_format("Final code",font="slant")
+txt=pyfiglet.figlet_format("pic2txt-QRcode",font="slant")
 
 print(txt)
 
